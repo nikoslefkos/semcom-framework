@@ -48,7 +48,7 @@ communications framework for sending and receiving text data. The creation of th
 
  ## License
 
- See the [LICENSE]() file for license rights and limitations.
+ See the [LICENSE](https://github.com/nikoslefkos/semcom-framework/blob/main/LICENSE.txt) file for license rights and limitations.
 
 
 
