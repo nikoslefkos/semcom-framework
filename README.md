@@ -9,11 +9,11 @@ communications framework for sending and receiving text data. The creation of th
  
  1. Named Entity Recognition
 
- A NER model was implemented by fine tuning the DistilBERT model on the [OntoNotes dataset](https://huggingface.co/datasets/SpeedOfMagic/ontonotes_english) for token classification. That is shown at [nerbert.py]().
+ A NER model was implemented by fine tuning the DistilBERT model on the [OntoNotes dataset](https://huggingface.co/datasets/SpeedOfMagic/ontonotes_english) for token classification. That is shown at [nerbert.py](https://github.com/nikoslefkos/semcom-framework/blob/main/nerbert.py).
  
  2. Relation Classification
 
- A relation classification (or relation extraction) model was implemented by fine tuning the DistilBERT model on the [T-Rex dataset](https://huggingface.co/datasets/relbert/t_rex) for sequence classification. That is shown at [rebert.py]().
+ A relation classification (or relation extraction) model was implemented by fine tuning the DistilBERT model on the [T-Rex dataset](https://huggingface.co/datasets/relbert/t_rex) for sequence classification. That is shown at [rebert.py](https://github.com/nikoslefkos/semcom-framework/blob/main/rebert.py).
 
  The models are then used sequentially to extract semantic information following the pipeline approach. 
 
@@ -48,7 +48,7 @@ communications framework for sending and receiving text data. The creation of th
 
  ## License
 
- See the [LICENSE]() file for license rights and limitations.
+ See the [LICENSE](https://github.com/nikoslefkos/semcom-framework/blob/main/LICENSE.txt) file for license rights and limitations.
 
 
 
